@@ -1,10 +1,4 @@
-# Báo cáo cá nhân
-
-Đổi tên bản mẫu `MSSV_HoTen.md` thành báo cáo của bạn (đổi tên, đừng chép thành file thứ hai):
-
-```text
-report/individual/<MSSV>_<HoTen>.md
-```
+# Day 13 Lab — 2A202603105 - Giang Nguyễn Xuân Bách
 
 Ví dụ: `report/individual/2A202600123_NguyenVanAn.md`. `<MSSV>` đúng như dòng `student` trong `configs/lab.ini`; `<HoTen>` là họ tên không dấu, viết liền, không `_`. Windows: bật File Explorer → **View → Show → File name extensions** trước khi đổi tên, để tên không thành `….md.md`. Báo cáo được commit vào repo public: đọc lưu ý ở đầu bản mẫu trước khi viết.
 
